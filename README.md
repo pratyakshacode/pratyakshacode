@@ -1,3 +1,6 @@
+import java.util.*;
+import java.io.*;
+
 <h3> public class MyDescription </h3> {
 
       public String Name, gitHubId, Education, College, Email;
@@ -33,7 +36,7 @@
 Output ->
 
 - <h4>👋 Hi, I’m  </h4> <h3> Pratyaksha Verma - @pratyakshacode </h3>
-- <h4> 🌱 I’m Currently pursuing </h4> <h3> B.tech in Computer Science And Engineering with an average of 9.0 cgpa; </h3> <br>
+- <h4> 🌱 I’m Currently pursuing </h4> <h4> B.tech in Computer Science And Engineering with an average of 9.0 cgpa; </h4> <br>
 - <h4> My skills includes </h4>
 - <h3> C++ </h3>
 - <h3> Java </h3>
