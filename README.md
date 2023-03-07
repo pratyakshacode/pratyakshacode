@@ -14,7 +14,7 @@
      
      public static void main(String [] args) {
      
-     MyDescription desc = new MyDescription("Pratyaksha Verma" , "@pratyakshacode", "Btech Computer Science and Engineering", "Noida Institute of Engineering and Technology, Greater Noida", "pratyakshaverma2018@gmail.com");
+     MyDescription desc = new MyDescription("Pratyaksha Verma" , "@pratyakshacode", "Btech Computer Science and Engineering with an average of 9.0 cgpa", "Noida Institute of Engineering and Technology, Greater Noida", "pratyakshaverma2018@gmail.com");
      
      desc.skills = {"C++ programming", "Java" , "MERN Stack", "Firebase"};
      System.out.println("👋 Hi, I’m " + desc.Name + " - " + desc.gitHubId);
@@ -25,7 +25,7 @@
         System.out.println(skill);
      }
      
-     System.out.println("📫 How to reach me " + desc.Email);
+     System.out.println("📫 How to reach me Email id -> " + desc.Email);
      
     }}
  
