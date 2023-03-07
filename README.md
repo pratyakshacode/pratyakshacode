@@ -4,17 +4,18 @@
       public String [] skills;
       
       
-      public MyDescription(Name, gitHubId, Education, College, Email){
-            this.Name = Name;
-            this.gitHubId = gitHubId;
-            this.Education = Education;
-            this.College = College;
-            this.Email = Email;
+      public MyDescription(){
+      
+            this.Name ="Pratyaksha Verma";
+            this.gitHubId = "@pratyakshacode";
+            this.Education ="Btech Computer Science and Engineering with an average of 9.0 cgpa";
+            this.College = "Noida Institute of Engineering and Technology, Greater Noida";
+            this.Email = "pratyakshaverma2018@gmail.com;
      }
      
      public static void main(String [] args) {
      
-     MyDescription desc = new MyDescription("Pratyaksha Verma" , "@pratyakshacode", "Btech Computer Science and Engineering with an average of 9.0 cgpa", "Noida Institute of Engineering and Technology, Greater Noida", "pratyakshaverma2018@gmail.com");
+     MyDescription desc = new MyDescription();
      
      desc.skills = {"C++ programming", "Java" , "MERN Stack", "Firebase"};
      System.out.println("👋 Hi, I’m " + desc.Name + " - " + desc.gitHubId);
