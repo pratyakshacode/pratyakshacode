@@ -1,11 +1,7 @@
-- 👋 Hi, I’m @pratyakshacode
-- 👀 I’m interested in Artificial intelligence, programming and also in development.
-- 🌱 I’m currently learning B.tech in Computer Science And Engineering.
-- 💞️ I’m looking to collaborate on the project including AI, Web Development, C++ development and also in other programmings whether i am able to make contribution.
-- 📫 How to reach me my email id is pratyakshaverma2018@gmail.com
+- <h4>👋 Hi, I’m </h4> <h3> Pratyaksha Verma - @pratyakshacode </h3>
+ I am currently a student at Noida Institute of Engineering and Technology, Greater Noida <br>
+- <h4> 👀 I’m interested in </h4> <h3> Artificial intelligence, Data Structures and Web Development.</h3><br>
+- <h4> 🌱 I’m Currently pursuing </h4> <h3> B.tech in Computer Science And Engineering. </h3> <br>
+- <h4>💞️ I’m looking to collaborate on the project including</h4> <h3> AI, Web Development, C++ development and Java. </h3> <br>
+- <h3>📫 How to reach me </h3> Email id -> pratyakshaverma2018@gmail.com
 
-<!---
-pratyakshacode/pratyakshacode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-<h1> ReadME </h1>
